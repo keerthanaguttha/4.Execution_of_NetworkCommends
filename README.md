@@ -29,8 +29,7 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-#### Name : G Keerthana
-#### Register Number: 212223240045
+
 
 ## Output
 
